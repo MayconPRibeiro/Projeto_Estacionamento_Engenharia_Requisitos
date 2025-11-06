@@ -1,0 +1,5 @@
+bizage criar outro com atualizações conforme melhorias
+deixar cores do prototipo mais vivos
+por o prototipo direto no documento
+
+criar pincel e storyboard: criando desenho ou criar um video mostrando as funcionalidades
